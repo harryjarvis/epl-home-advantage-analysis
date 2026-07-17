@@ -1,4 +1,4 @@
-# Premier League Home Advantage Analysis
+![Premier League Home Advantage Analysis](images/project_banner.png)
 
 A Python data analysis project examining home advantage in the Premier League across five complete seasons from 2021/22 to 2025/26.
 
@@ -31,6 +31,18 @@ The analysis considers:
 - Arsenal recorded the strongest home performance in 2025/26, averaging **2.47 home points per match**.
 
 Overall, the analysis provides descriptive evidence of home advantage, although its strength varied considerably between seasons and teams.
+
+## Analytical Interpretation
+
+The results suggest that home advantage remained present throughout the five-season period, but it was not equally strong every year.
+
+The difference between the home-win rate of 44.2% and the away-win rate of 31.9% indicates that home teams were substantially more likely to win. This is reinforced by the average scoring figures, with home teams scoring approximately 0.27 more goals per match.
+
+However, the seasonal results show that home advantage should not be treated as constant. Home-win percentage ranged from 40.8% to 48.4%, while average home goal advantage also varied considerably.
+
+The team-level analysis further demonstrates that league-wide averages can conceal major differences between clubs. Arsenal averaged 2.47 home points per match in 2025/26, substantially outperforming the league-wide home average.
+
+These findings suggest that home advantage is a meaningful feature of Premier League performance, but its strength depends on both the season and the individual team.
 
 ## Visualisations
 
@@ -125,14 +137,6 @@ epl-home-advantage-analysis/
 
 ## Running the Project
 
-`````markdown
-1. Clone the repository:
-
-```bash
-git clone https://github.com/harryjarvis/epl-home-advantage-analysis
-cd epl-home-advantage-analysis
-```
-
 2. Create a virtual environment:
 
 ```bash
@@ -171,11 +175,9 @@ jupyter notebook
 notebooks/home_advantage_analysis.ipynb
 ```
 
-7. Run the notebook from the beginning:
+7. Run the notebook from the beginning using:
 
-```text
-Kernel → Restart Kernel and Run All Cells
-```
+**Kernel → Restart Kernel and Run All Cells**
 
 ## Skills Demonstrated
 
