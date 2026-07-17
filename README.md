@@ -44,6 +44,12 @@ The team-level analysis further demonstrates that league-wide averages can conce
 
 These findings suggest that home advantage is a meaningful feature of Premier League performance, but its strength depends on both the season and the individual team.
 
+## Project Reflection
+
+This project was developed to strengthen my practical Python data-analysis skills and build on my previous academic experience analysing football performance data.
+
+The main technical challenge was combining multiple seasonal datasets into a consistent structure and validating that the recorded results agreed with the underlying scorelines. The project also reinforced the importance of presenting analytical results clearly rather than relying only on calculated statistics.
+
 ## Visualisations
 
 ### Match Outcomes
