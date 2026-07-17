@@ -1,4 +1,4 @@
-# Premier League Home Advantage Analysis
+![Premier League Home Advantage Analysis](images/project_banner.png)
 
 A Python data analysis project examining home advantage in the Premier League across five complete seasons from 2021/22 to 2025/26.
 
