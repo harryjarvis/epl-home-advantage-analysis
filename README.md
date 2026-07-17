@@ -125,14 +125,6 @@ epl-home-advantage-analysis/
 
 ## Running the Project
 
-`````markdown
-1. Clone the repository:
-
-```bash
-git clone https://github.com/harryjarvis/epl-home-advantage-analysis
-cd epl-home-advantage-analysis
-```
-
 2. Create a virtual environment:
 
 ```bash
@@ -171,13 +163,9 @@ jupyter notebook
 notebooks/home_advantage_analysis.ipynb
 ```
 
-7. Run the notebook from the beginning:
+7. Run the notebook from the beginning using:
 
-```text
-Kernel → Restart Kernel and Run All Cells
-```
-
-``````
+**Kernel → Restart Kernel and Run All Cells**
 
 ## Skills Demonstrated
 
