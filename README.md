@@ -32,6 +32,18 @@ The analysis considers:
 
 Overall, the analysis provides descriptive evidence of home advantage, although its strength varied considerably between seasons and teams.
 
+## Analytical Interpretation
+
+The results suggest that home advantage remained present throughout the five-season period, but it was not equally strong every year.
+
+The difference between the home-win rate of 44.2% and the away-win rate of 31.9% indicates that home teams were substantially more likely to win. This is reinforced by the average scoring figures, with home teams scoring approximately 0.27 more goals per match.
+
+However, the seasonal results show that home advantage should not be treated as constant. Home-win percentage ranged from 40.8% to 48.4%, while average home goal advantage also varied considerably.
+
+The team-level analysis further demonstrates that league-wide averages can conceal major differences between clubs. Arsenal averaged 2.47 home points per match in 2025/26, substantially outperforming the league-wide home average.
+
+These findings suggest that home advantage is a meaningful feature of Premier League performance, but its strength depends on both the season and the individual team.
+
 ## Visualisations
 
 ### Match Outcomes
